@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/contacts": "pages/contacts.html",
+  "/factory": "pages/factory.html",
+  "/services": "pages/services.html",
+  "/": "pages/index.js",
+  "/search/[searchQuery]": "pages/search/[searchQuery].js",
+  "/cases/[id]": "pages/cases/[id].js",
+  "/catalog/[id]": "pages/catalog/[id].js",
+  "/stand/[id]": "pages/stand/[id].js",
+  "/cases": "pages/cases.js",
+  "/_document": "pages/_document.js"
+}
